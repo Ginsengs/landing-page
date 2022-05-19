@@ -1,3 +1,26 @@
 body {
     background: white;
 }
+
+
+footer {
+    background: #1f2937;
+    height: 300px;
+}
+.first-container {
+    background: #1f2937;
+    height: 300px;
+}
+
+.second-container {
+    height: 300px;
+}
+
+.third-container {
+    background: #e5e7eb;
+    height: 300px;
+}
+
+.fourth-container {
+    height: 300px;
+}
