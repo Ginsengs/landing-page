@@ -20,6 +20,13 @@ footer {
 
 .second-container {
     height: 300px;
+    text-align: center;
+}
+
+.second-container h1 {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
 }
 
 .third-container {
