@@ -55,7 +55,7 @@ footer {
 
 ul {
     display: flex;
-    gap: 10px;
+    gap: 50px;
     list-style-type: none;
     font-size: 24px;
     color: #f9faf8;
@@ -100,8 +100,22 @@ button {
   .image-content img {
       border: #1f2937 5px solid;
       width: 150px;
+      height: 150px;
   }
 
   .second-container h1 {
       margin: 20px;
+  }
+
+  .quote {
+      padding-top: 25px;
+      font-size: 25px;
+      font-weight: lighter;
+      font-style: italic;
+      text-align: center;
+  }
+
+  .quote-author {
+      text-align: right;
+      padding-right: 10px;
   }
